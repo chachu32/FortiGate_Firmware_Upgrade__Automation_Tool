@@ -19,7 +19,7 @@
 Use a project virtual so the editor resolves imports (e.g. Selenium):
 
 ```powershell
-cd "C:\Users\AKHILRAJ\Documents\projects\ssh-bulk-tool"
+cd "C:\Users\USERNAME\Documents\projects\ssh-bulk-tool"
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
